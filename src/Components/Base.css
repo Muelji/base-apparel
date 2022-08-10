@@ -1,0 +1,147 @@
+.main{
+      /* border: 1px solid red; */
+    
+
+}
+
+.all{
+    /* border: 1px solid rgb(223, 50, 151); */
+   
+    display: flex;
+    width: 80%;
+    height: 1000px;
+    margin: auto;
+
+}
+
+.first{
+    /* border: 1px solid rgb(58, 206, 169); */
+    width: 59%;
+    height: 950px;
+    background-image: url(bg-pattern-desktop.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.second{
+    /* border: 1px solid rgb(45, 132, 233); */
+    width: 41%;
+    height: 950px;
+    background-image: url(hero-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.firstbig{
+    /* border: 1px solid rgb(32, 6, 21); */
+    width: 80%;
+    height: 910px;
+    margin: auto;
+
+}
+
+.f1{
+    /* border: 1px solid rgb(167, 226, 30); */
+    width: 38%;
+    height: 6%;
+    background-image: url(logo.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.f2{
+    /* border: 1px solid rgb(167, 226, 30); */
+    width: 80%;
+    height: 65% ;
+}
+
+.f3{
+    /* border: 1px solid rgb(167, 226, 30); */
+    width: 80%;
+    height: 15%;
+    
+}
+
+.f2i{
+    margin-top: 20%;
+    /* border: 1px solid rgb(201, 51, 32); */
+    width: 80%;
+    height: 50%;
+}
+
+
+.f2ii{
+    /* border: 1px solid rgb(201, 51, 32); */
+    width: 90%;
+    height: 25%;
+    text-align: left;
+}
+
+.f3i{ 
+     /* border: 1px solid rgb(235, 18, 199); */
+     background-color: rgb(245, 105, 105);
+     width: 80%;
+     height: 45%;
+     border-radius: 15px;
+}
+
+
+.f3ii{
+    /* border: 1px solid rgb(24, 45, 241); */
+    width: 15%;
+    height: 45%;
+    float: right;
+    margin-top: -61px;
+    margin-right: 11%;
+    z-index: 1;
+   
+
+}
+
+h1{font-size: 400%;
+   text-align: left;
+   font-family:Arial, Helvetica, sans-serif;
+   letter-spacing: 0.7rem;
+}
+
+input{
+      margin-top: 2px;
+      border: 1px solid red;
+      margin-right: 7%;
+      border-radius: 14px;
+       width: 91%;
+       height: 89%;
+       z-index: -3;
+
+}
+
+span{
+     color:rgb(247, 177, 97);
+
+}
+
+p{
+    color:rgb(247, 177, 97);
+    font-size: 120%;
+    letter-spacing: 0.1rem;
+
+}
+
+button{
+    width: 98%;
+    height: 98%;
+    border-radius: 25px;
+    background-image: url(bg-pattern-desktop.svg)
+
+}
+
+.last{
+      margin-top: 8px;
+      width: 70%;
+      height: 20%;
+      text-align: left;
+      margin-left: 3%;
+      color: rgb(245, 105, 105);
+
+
+}
