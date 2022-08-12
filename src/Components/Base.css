@@ -1,12 +1,11 @@
 .main{
       /* border: 1px solid red; */
-    
 
 }
 
 .all{
     /* border: 1px solid rgb(223, 50, 151); */
-   
+    
     display: flex;
     width: 80%;
     height: 1000px;
@@ -28,7 +27,7 @@
     width: 41%;
     height: 950px;
     background-image: url(hero-desktop.jpg);
-    background-size: cover;
+    background-size: 120%;
     background-repeat: no-repeat;
 }
 
@@ -45,7 +44,7 @@
     width: 38%;
     height: 6%;
     background-image: url(logo.svg);
-    background-size: cover;
+    background-size: 100%;
     background-repeat: no-repeat;
 }
 
@@ -93,15 +92,15 @@
     float: right;
     margin-top: -61px;
     margin-right: 11%;
-    z-index: 1;
+
    
 
 }
 
-h1{font-size: 400%;
+h1{font-size: 350%;
    text-align: left;
    font-family:Arial, Helvetica, sans-serif;
-   letter-spacing: 0.7rem;
+   /* letter-spacing: 1%; */
 }
 
 input{
@@ -111,7 +110,6 @@ input{
       border-radius: 14px;
        width: 91%;
        height: 89%;
-       z-index: -3;
 
 }
 
